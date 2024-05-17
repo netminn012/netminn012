@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello everyone! I am netminn012, a developer from Japan. I am actively involved in various programming projects and communities, and am active on GitHub, Scratch, Atcoder, etc. I love to create innovative solutions and share them with the world.
+Hello everyone! I am netminn012, a developer from Japan. I am actively involved in various programming projects and communities, and am active on GitHub, Scratch, Atcoder, etc!
 
 - **GitHub**: [netminn012](https://github.com/netminn012)
 - **Twitter**: [@netminn012](https://twitter.com/netminn012)
@@ -9,14 +9,11 @@ Hello everyone! I am netminn012, a developer from Japan. I am actively involved 
 ## GitHub Stats.
 ![netminn012's GitHub Stats](https://github-readme-stats.vercel.app/api?username=netminn012&show_icons=true&theme=radical)
 
-## Projects
-Here are some of the projects I'm currently working on:
-
 ## Popular projects on GitHub
 1. [netminn012.github.io](https://github.com/netminn012/netminn012.github.io) - Ultra-light homepage
 2. [Scratch-Project-Download](https://github.com/netminn012/Scratch-Project-Download) - User script for easy download of Scratch projects
-[Remove-Ruby-for-Aozora-Bunko](https://github.com/netminn012/Remove-Ruby-for-Aozora-Bunko) - User script to remove Ruby annotations from Aozora Bunko texts.
-4.[AtCoder-codes](https://github.com/netminn012/AtCoder-codes) - Repository for Atcoder practice.
+3. [Remove-Ruby-for-Aozora-Bunko](https://github.com/netminn012/Remove-Ruby-for-Aozora-Bunko) - User script to remove Ruby annotations from Aozora Bunko texts.
+4. [AtCoder-codes](https://github.com/netminn012/AtCoder-codes) - Repository for Atcoder practice.
 
 ## Languages and tools used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netminn012&layout=compact&theme=radical)
