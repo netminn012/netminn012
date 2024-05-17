@@ -7,7 +7,7 @@ Hello everyone! I am netminn012, a developer from Japan. I am actively involved 
 - **Discord**: [@netminn012](https://discord.com/users/1133996291349827584)
 
 ## GitHub Stats.
-! [netminn012's GitHub Stats](https://github-readme-stats.vercel.app/api?username=netminn012&show_icons=true&theme=radical)
+![netminn012's GitHub Stats](https://github-readme-stats.vercel.app/api?username=netminn012&show_icons=true&theme=radical)
 
 ## Projects
 Here are some of the projects I'm currently working on:
@@ -19,7 +19,7 @@ Here are some of the projects I'm currently working on:
 4.[AtCoder-codes](https://github.com/netminn012/AtCoder-codes) - Repository for Atcoder practice.
 
 ## Languages and tools used
-! [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netminn012&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netminn012&layout=compact&theme=radical)
 
 - **Language**: HTML, Python, C++
 - **Tools**: Git, Google Colaboratory, VSCode, Scratch
